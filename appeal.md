@@ -3,8 +3,6 @@ layout: default
 title: 自己PR
 ---
 
-## 自己PR
-
 ### 実績開発スキルについて
 主にブラウザを中心にしたWebアプリを担当にしてきました。
 担当した言語は多岐にわたりJava、C#、VB、PHP、Python、JS、NodeJs、C++などを担当してきました。
