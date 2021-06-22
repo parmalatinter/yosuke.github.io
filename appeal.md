@@ -1,3 +1,8 @@
+---
+layout: default
+title: 自己PR
+---
+
 ## 自己PR
 
 ### 実績開発スキルについて
