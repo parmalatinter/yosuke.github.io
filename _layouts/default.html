@@ -62,6 +62,8 @@
               sessionStorage.setItem(KEY, password);
           }
           if (password != getPassFromHash()) {
+              password = window.prompt(MESSAGE);
+              sessionStorage.setItem(KEY, password);
               window.location.href = "/yosuke.github.io";
           }
       }
