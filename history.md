@@ -9,11 +9,11 @@ title: 職務経歴書
 ***
 
 ### 【ツール・言語】
-    JS/
-    CSS/
-    Photoshop/
-    Illustrator/
-    InDesign/
+    JS
+    CSS
+    Photoshop
+    Illustrator
+    InDesign
     Dreamweaver
 
 ### 【内容】
@@ -43,12 +43,12 @@ DTPの知識を身に着け、本の作成工程を一通り実施しました�
 ***
 
 ### 【ツール・言語】
-    JS/
-    CSS/
-    Flash/
-    Photoshop/
-    Illustrator/
-    InDesign/
+    JS
+    CSS
+    Flash
+    Photoshop
+    Illustrator
+    InDesign
     Dreamweaver
 
 ### 【内容】
@@ -78,7 +78,7 @@ Flashでのアニメーションコンテンツを企画、作成、素材発注
 ***
 
 ### 【ツール・言語】
-    VBA/
+    VBA
     Access
 
 ### 【内容】
@@ -146,11 +146,11 @@ TOEIC 505点
 ***
 
 ### 【ツール・言語】
-    Objective-C/
-    Aptana/
+    Objective-C
+    Aptana
     Android (Java)
-    CSS/
-    PHP/
+    CSS
+    PHP
     jQuery
 
 ### 【内容】
@@ -175,10 +175,10 @@ Jquery Mobileとレスポンシブデザインを利用してスマフォでもP
 ***
 
 ### 【ツール・言語】
-    Android (Java)/
-    Tizen (C++)/
-    phoneGap/
-    backbone/
+    Android (Java)
+    Tizen (C++)
+    phoneGap
+    backbone
     lodash
 
 ### 【内容】
@@ -204,11 +204,11 @@ SIerのコードビューを実施してバグを発見することができま�
 ***
 
 ### 【ツール・言語】
-    Ruby on Rails/
-    Postgres Sql/
-    Firebase/
-    Scrach/
-    Google Api/
+    Ruby on Rails
+    Postgres Sql
+    Firebase
+    Scrach
+    Google Api
     Python
 
 ### 【内容】
@@ -238,10 +238,10 @@ Scrachの教育を学ぶコンテンツや生徒の作品を共有すること�
 ***
 
 ### 【ツール・言語】
-    C#.Net/
-    PHP/
-    ZendFrrameWork/
-    jQuery/
+    C#.Net
+    PHP
+    ZendFrrameWork
+    jQuery
     Sql Server
 
 ### 【内容】
@@ -269,10 +269,10 @@ PHPを知らない方に理解しやすいよう修正内容説明してコー�
 ***
 
 ### 【ツール・言語】
-    CSS/
-    PHP/
-    Cake PHP/
-    jQuery/
+    CSS
+    PHP
+    Cake PHP
+    jQuery
     MysSql
 
 ### 【内容】
@@ -305,9 +305,9 @@ iPhone・Android向けアプリを2タイトルリリースしました。いず
 ***
 
 ### 【ツール・言語】
-    Mysql/
-    Codeigniter/
-    PHPUnit/
+    Mysql
+    Codeigniter
+    PHPUnit
     jQuery
 
 ### 【内容】
@@ -337,12 +337,12 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 ***
 
 ### 【ツール・言語】
-    Postgres Sql/
-    Mysql/
-    Docker/
-    Laravel/
-    Shell Script/
-    jQuery/
+    Postgres Sql
+    Mysql
+    Docker
+    Laravel
+    Shell Script
+    jQuery
     Gitlab
 
 ### 【内容】
@@ -377,14 +377,14 @@ GitLabを導入して、現地とのやり取りからコードレビューま�
 ***
 
 ### 【ツール・言語】
-    Mysql/
-    Ruby on Rails/
-    Scss/
-    Node Js/
-    puppeteer/
-    Python/
-    Linux/
-    Heroku/
+    Mysql
+    Ruby on Rails
+    Scss
+    Node Js
+    puppeteer
+    Python
+    Linux
+    Heroku
     AWS
 
 ### 【内容】
@@ -419,8 +419,8 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 ***
 
 ### 【ツール・言語】
-    Java/
-    Shell Script/
+    Java
+    Shell Script
     Linux
 
 ### 【内容】
@@ -447,20 +447,20 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 ### 【チーム人数】
     6人
 
-### 15. NCN（トヨタ向け）
+### 14. NCN（トヨタ向け）
 
-> 8ヶ月 19/04 ～
+> 15ヶ月 19/04 ～ 21/05
 
 ***
 
 ### 【ツール・言語】
-    VB.net/
-    C#.net/
-    Oracle/
-    SQL Sever/
-    jQuery/
-    Shell Script/
-    Linux/
+    VB.net
+    C#.net
+    Oracle
+    SQL Sever
+    jQuery
+    Shell Script
+    Linux
     Redmine
 
 ### 【内容】
@@ -486,3 +486,38 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【チーム人数】
     6人
+
+### 15. CMC Solutions（ダイフク向け）
+
+> 15ヶ月 21/06 ～ 
+
+***
+
+### 【ツール・言語】
+    PHP
+    SQlite
+    Oracle
+    PHP
+    jQuery
+    Shell Script
+    Github
+
+### 【内容】
+    Webアプリ開発
+    保守
+    テスト
+    設計
+    業務管理
+    テックリード
+    コードレビュー
+
+### 【実績/取り組み】
+
+```
+ロジスティック管理システム開発支援を担当。レガシーなコードの改善・共通化・Unit Testの標準化などを実施、これまで時間的ロスの多いコーディングの効率化と品質の向上、数々の既存課題に対処しました。
+レビュー文化もない現場だったのでレビューの仕方やGithubの使用方法などもレクチャーしました。
+Githubを使用したコードの自動テストも実施。
+```
+
+### 【チーム人数】
+    12人～
