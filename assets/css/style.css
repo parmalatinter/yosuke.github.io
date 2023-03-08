@@ -1,0 +1,11 @@
+@media print {
+  /* テキストにスクロールが発生しないようなサイズにする */
+  body {
+    zoom: 0.85;
+    -webkit-print-color-adjust: exact;
+  }
+  /* ヘッダーのリンク（英語）を印刷時には表示しない */
+  .page-header > .project-tagline, .page-header > .btn{
+    display:none;
+  }
+}
