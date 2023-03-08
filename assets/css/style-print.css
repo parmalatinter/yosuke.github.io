@@ -4,8 +4,12 @@
     zoom: 0.85;
     -webkit-print-color-adjust: exact;
   }
+  /* ヘッダーが詰まるので修正 */
+  .page-header{
+      margin-bottom: 50px;
+  }
   /* ヘッダーのリンク（英語）を印刷時には表示しない */
-  .page-header > .project-tagline, .page-header > .btn{
+  .page-header > .project-tagline, .page-header > .btn, #content > footer > a{
     display:none;
   }
 }
