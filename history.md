@@ -489,7 +489,7 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 15. CMC Solutions（ダイフク向け）
 
-> 15ヶ月 21/06 ～ 
+> 27ヶ月 21/06 ～ 
 
 ***
 
@@ -522,3 +522,43 @@ Githubを使用したコードの自動テストも実施。
 
 ### 【チーム人数】
     12人～
+
+### 16. NTT
+
+> 4ヶ月 23/05 ～ 
+
+***
+
+### 【ツール・言語】
+    Python
+    Pytorch
+    Tensorflow
+    yolo
+    transfomer
+    donut ocr
+    docker
+    nodeJs
+    AWS
+    DynamoDB
+    OpenCV
+    Docker
+    Jupyter
+
+### 【内容】
+    環境開発
+    アプリ開発
+    AIモデル学習
+    
+### 【実績/取り組み】
+
+```
+RTSPからYOLOを用いてナンバープレートを検出し、Donutを用いてOCRを実施しAWS DynamoDBに結果を送信するアプリを作成
+Python、PyTorch、TensorFlow、OpenCV、Docker、AWS、Donut OCR、Node js、Express、Typescript などのスキルを身につけました。
+
+環境構築からAIモデル学習、アプリ開発まで幅広い経験を通じ、高い精度でナンバープレート情報を抽出するシステムを開発
+データ処理からモデルのファインチューニング、クラウドでの展開までを実施
+```
+
+### 【チーム人数】
+    3人～
+
