@@ -538,6 +538,7 @@ Githubを使用したコードの自動テストも実施。
     RCNN
     transfomer
     donut ocr
+    EasyOCR
     OpenCV
     Numpy
     Pandas
