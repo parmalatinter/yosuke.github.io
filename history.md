@@ -542,6 +542,7 @@ Githubを使用したコードの自動テストも実施。
     OpenCV
     Numpy
     Pandas
+    SciPy
     Docker
     Jupyter
     nodeJs
