@@ -533,7 +533,7 @@ Githubを使用したコードの自動テストも実施。
     Python
     Pytorch
     Tensorflow
-    YOLO V8, YOLO X
+    YOLO v8, YOLO X
     RNN
     RCNN
     transfomer
