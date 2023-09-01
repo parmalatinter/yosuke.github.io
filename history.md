@@ -530,6 +530,8 @@ Githubを使用したコードの自動テストも実施。
 ***
 
 ### 【ツール・言語】
+    Ubuntu
+    WSL
     Python
     Pytorch
     Tensorflow
