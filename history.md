@@ -543,6 +543,8 @@ Githubを使用したコードの自動テストも実施。
     Numpy
     Pandas
     SciPy
+    scikit-learn
+    matplotlib
     Docker
     Jupyter
     nodeJs
