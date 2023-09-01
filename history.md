@@ -552,11 +552,13 @@ Githubを使用したコードの自動テストも実施。
 ### 【実績/取り組み】
 
 ```
-RTSPからYOLOを用いてナンバープレートを検出し、Donutを用いてOCRを実施しAWS DynamoDBに結果を送信するアプリを作成
-Python、PyTorch、TensorFlow、OpenCV、Docker、AWS、Donut OCR、Node js、Express、Typescript などのスキルを身につけました。
+RTSPからYOLOを用いてナンバープレートを検出し、Donutを用いたOCRを実施しAWS DynamoDBに結果を送信するアプリ
+を作成
+Python、PyTorch、TensorFlow、OpenCV、Docker、AWS、Donut OCR、Node js、Express、Typescript などのスキルを
+身につけました。
 
-環境構築からAIモデル学習、アプリ開発まで幅広い経験を通じ、高い精度でナンバープレート情報を抽出するシステムを開発しました。
-データ処理からモデルのファインチューニング、クラウドでの展開までを実施。
+環境構築からAIモデル学習、アプリ開発まで幅広い経験を通じ、高い精度でナンバープレート情報を抽出する
+システムを開発しました。データ処理からモデルのファインチューニング、クラウドでの展開までを実施。
 ```
 
 ### 【チーム人数】
