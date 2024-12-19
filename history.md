@@ -11,7 +11,8 @@ title: 職務経歴書
 
 ### 【ツール・言語】
 
-    JS
+    javascript
+    jQuery
     CSS
     Photoshop
     Illustrator
@@ -48,7 +49,7 @@ DTPの知識を身に着け、本の作成工程を一通り実施しました�
 
 ### 【ツール・言語】
 
-    JS
+    javascript
     CSS
     Flash
     Photoshop
@@ -166,6 +167,7 @@ TOEIC 505点
     Android (Java)
     CSS
     PHP
+    javascript
     jQuery
 
 ### 【内容】
@@ -265,6 +267,7 @@ Scrachの教育を学ぶコンテンツや生徒の作品を共有すること�
     C#.Net
     PHP
     ZendFrrameWork
+    javascript
     jQuery
     Sql Server
 
@@ -299,7 +302,9 @@ PHPを知らない方に理解しやすいよう修正内容説明してコー�
     CSS
     PHP
     Cake PHP
+    javascript
     jQuery
+    AngularJs
     MysSql
 
 ### 【内容】
@@ -338,6 +343,7 @@ iPhone・Android向けアプリを2タイトルリリースしました。いず
     Mysql
     Codeigniter
     PHPUnit
+    javascript
     jQuery
 
 ### 【内容】
@@ -375,6 +381,7 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
     Docker
     Laravel
     Shell Script
+    javascript
     jQuery
     Gitlab
 
@@ -416,7 +423,8 @@ GitLabを導入して、現地とのやり取りからコードレビューま�
     Mysql
     Ruby on Rails
     Scss
-    Node Js
+    javascript
+    Node.js
     puppeteer
     Python
     Linux
@@ -500,6 +508,7 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
     C#.net
     Oracle
     SQL Sever
+    javascript
     jQuery
     Shell Script
     Linux
@@ -544,6 +553,7 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
     Oracle
     PHP
     Laravel
+    javascript
     jQuery
     Shell Script
     Github
@@ -598,7 +608,8 @@ Githubを使用したコードの自動テストも実施。
     matplotlib
     Docker
     Jupyter
-    nodeJs
+    javascript
+    Node.js
     Express
     Typescript
     AWS
@@ -614,7 +625,7 @@ Githubを使用したコードの自動テストも実施。
 
 ```
 RTSPからYOLOを用いてナンバープレートを検出し、Donutを用いたOCRを実施しAWS DynamoDBに結果を送信するアプリ
-とNode js、Express、TypescriptとDynamoDBを用いて結果を表示するアプリを作成しました。
+とNode.js、Express、TypescriptとDynamoDBを用いて結果を表示するアプリを作成しました。
 環境構築からAIモデル学習、アプリ開発まで幅広い経験を通じ、高い精度でナンバープレート情報を抽出する
 システムを開発しました。環境構築、データ処理からモデルのファインチューニング、クラウドでの展開までを実施。
 ```
@@ -632,6 +643,7 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
 ### 【ツール・言語】
 
     Docker
+    javascript
     Node.js
     Express
     Mongo DB
