@@ -345,6 +345,7 @@ iPhone・Android向けアプリを2タイトルリリースしました。いず
     PHPUnit
     javascript
     jQuery
+    PWA
 
 ### 【内容】
 
@@ -650,6 +651,10 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
     Nginx
     Vue.js
     Vuetify
+    Service Woker
+    Web Push
+    linux
+    PWA
 
 ### 【内容】
 
