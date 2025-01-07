@@ -645,6 +645,7 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
 
     Docker
     javascript
+    typescript
     Node.js
     Express
     Mongo DB
@@ -655,6 +656,7 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
     Web Push
     linux
     PWA
+    Nuxt.js
 
 ### 【内容】
 
