@@ -5,7 +5,7 @@ title: 自己PR
 
 ### 実績開発スキルについて
 主にブラウザを中心にしたWebアプリを担当にしてきました。
-担当した言語は多岐にわたりJava、C#、VB、PHP、Python、JavaScript、Typescript、NodeJs、Flutter(Darte)、Swift、Kotlin、C++などを担当してきました。
+担当した言語は多岐にわたりJava、C#、VB、PHP、Python、JavaScript、Typescript、NodeJs、Flutter(Dart)、Swift、Kotlin、C++などを担当してきました。
 これらの多岐にわたる言語経験したことで未経験の言語でも、特に気負いせずチャレンジすることができます。
 また英語などの文献を読むことに対しては抵抗がないので英語などの言語を使用して問題解決をすることで日本語よりも素早くバグなどの問題を解決することができます。
 
