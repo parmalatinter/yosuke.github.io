@@ -552,12 +552,13 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
     PHP
     SQlite
     Oracle
-    PHP
+    PHP unit
     Laravel
     javascript
     jQuery
     Shell Script
     Github
+    GitHub Actions
 
 ### 【内容】
 
