@@ -9,12 +9,23 @@ title: 職務経歴書
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   JavaScript（ES5）
--   jQuery（1.9）
 -   CSS（CSS2.1）
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+-   windows 7
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
 -   HTML（HTML5）
+-   jQuery（1.9）
 -   Photoshop（CS5）
 -   Illustrator（CS5）
 -   InDesign（CS5）
@@ -54,11 +65,23 @@ DTP の知識を身に着け、本の作成工程を一通り実施しました�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   JavaScript（ES5）
--   jQuery（1.9）
 -   CSS（CSS3）
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+-   windows 7
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   HTML（HTML5）
+-   jQuery（1.9）
 -   Flash（Adobe Flash CS5）
 -   Photoshop（CS5）
 -   Illustrator（CS5）
@@ -97,10 +120,21 @@ DTP の知識を身に着け、本の作成工程を一通り実施しました�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   VBA（Microsoft Office 2003 / 2007）
--   Access（Microsoft Access 2003 / 2007）
+-   VBA（Microsoft Office 2007）
+
+### 【DB】
+
+-   Access（Microsoft Access 2007）
+
+### 【サーバー・OS】
+
+-   windows 7
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Excel（Microsoft Excel 2007）
 
 ### 【担当業務】
 
@@ -132,10 +166,22 @@ DTP の知識を身に着け、本の作成工程を一通り実施しました�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   英会話
 -   スペイン語
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+なし
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+なし
 
 ### 【担当業務】
 
@@ -167,10 +213,22 @@ DTP の知識を身に着け、本の作成工程を一通り実施しました�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   VBA（Microsoft Office 2003 / 2007 / 2010）
--   Excel（Microsoft Excel 2003 / 2007 / 2010）
+-   VBA（Microsoft Office 2010）
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+-   windows 7
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Excel（Microsoft Excel 2010）
 
 ### 【担当業務】
 
@@ -197,21 +255,34 @@ Excel VBA を活用し、大規模データ管理システムを開発。自動�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   Objective-C（iOS SDK 6 / Xcode 5）
--   Aptana Studio（Aptana 3）
 -   Android (Java)（Android API Level 15 - 17 / Eclipse ADT Plugin）
 -   CSS（CSS3）
 -   PHP（PHP 5.4）
 -   JavaScript（ES5）
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+-   windows 8
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Aptana Studio（Aptana 3）
 -   jQuery（1.10）
 -   jQuery Mobile（1.3）
 
 ### 【担当業務】
 
--   モバイルアプリの設計・開発・テスト
--   ユーザーインターフェースの改善
+-   モバイルアプリ開発スキル（iOS, Android）
+-   JavaScript, PHP を用いたフロントエンド開発
+-   ユーザーインターフェース設計
 
 ### 【実績/取り組み】
 
@@ -238,10 +309,23 @@ Excel VBA を活用し、大規模データ管理システムを開発。自動�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   Android (Java)（API Level 19 / Eclipse ADT Plugin）
+-   Android (Java)（API Level 19）
 -   Tizen (C++)（Tizen 2.2）
+-   JavaScript（ES5）
+
+### 【DB】
+
+なし
+
+### 【サーバー・OS】
+
+-   windows 8
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
 -   PhoneGap (Cordova)（3.0）
 -   Backbone.js（1.0）
 -   Lodash（2.0）
@@ -276,14 +360,26 @@ Excel VBA を活用し、大規模データ管理システムを開発。自動�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   Ruby on Rails（Rails 6）
+-   Scratch（3.0）
+-   Python（3）
+
+### 【DB】
+
 -   PostgreSQL（12）
 -   Firebase（Realtime Database / Firestore）
+
+### 【サーバー・OS】
+
+-   windows 10
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
 -   Scratch（3.0）
 -   Google API（OAuth, Drive API）
--   Python（3）
 
 ### 【担当業務】
 
@@ -318,14 +414,25 @@ Scrach の教育を学ぶコンテンツや生徒の作品を共有すること�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   C#.NET（.NET Framework 4.0）
 -   PHP（5.4）
--   Zend Framework（1）
 -   JavaScript（ES5）
--   jQuery（2.0）
+
+### 【DB】
+
 -   SQL Server（2012）
+
+### 【サーバー・OS】
+
+-   windows 10
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Zend Framework（1）
+-   jQuery（2.0）
 
 ### 【担当業務】
 
@@ -356,16 +463,28 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   CSS（CSS3）
 -   PHP（7.0）
--   CakePHP（3）
 -   JavaScript（ES5）
+-   CSS（CSS3）
+
+### 【DB】
+
+-   MySQL（5.7）
+
+### 【サーバー・OS】
+
+-   windows 10
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   CakePHP（3）
 -   jQuery（3.0）
 -   AngularJS（1.6）
--   MySQL（5.7）
 -   Akamai（CDN & Cache Optimization）
+-
 
 ### 【担当業務】
 
@@ -399,10 +518,20 @@ iPhone・Android 向けアプリを 2 タイトルリリースしました。い
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
+
+-   PHP（7.2）
+
+### 【DB】
 
 -   MySQL（5.7）
--   CodeIgniter（3）
+
+### 【サーバー・OS】
+
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
 -   PHPUnit（6）
 -   JavaScript（ES6）
 -   jQuery（3）
@@ -435,7 +564,6 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 ポイント購入とポイント換金機能を作成することでサイトの活性化にも寄与しました。
 また PHP のテスト、UI のテストを自動化することで少人数でも安心してデプロイすることができるようになりました。
 
-```
 ---
 
 ## 12. シェアリングテクノロジー株式会社
@@ -444,15 +572,27 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
+
+-   PHP
+-   Shell Script（Bash / Linux シェルスクリプト）
+-   JavaScript（ES6）
+-   GitLab（12.x, GitLab CI/CD）
+
+### 【DB】
 
 -   PostgreSQL（10）
 -   MySQL（8.0）
--   Docker（19）
+
+### 【サーバー・OS】
+
+-   windows 10
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   jQuery（3）
 -   Laravel（5.7）
 -   Shell Script（Bash / Linux シェルスクリプト）
--   JavaScript（ES6）
--   jQuery（3）
 -   GitLab（12.x, GitLab CI/CD）
 
 ### 【担当業務】
@@ -482,6 +622,8 @@ GitLab を導入して、現地とのやり取りからコードレビューま�
 また Git の使い方がわからないメンバーや社員に Git の使用法を伝え、Git Flow をメンバー全員で実施することで
 開発の生産性が上がりました。
 
+Python を使用し、市場の動向をスクレイピングして DB に保管するプログラムを作成し、市場の戦略の立案にも寄与することができました。
+
 ---
 
 ## 13. ホリズンカンパニー
@@ -490,18 +632,30 @@ GitLab を導入して、現地とのやり取りからコードレビューま�
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   MySQL（8.0）
 -   Ruby on Rails（6.0）
 -   SCSS（CSS3 + Sass 3.7）
 -   JavaScript（ES6）
 -   Node.js（10）
--   Puppeteer（1）
 -   Python（3.7）
+
+### 【DB】
+
+-   MySQL（8.0）
+
+### 【サーバー・OS】
+
 -   Linux（Ubuntu 18.04）
 -   Heroku（Standard / Professional Dynos）
 -   AWS（EC2, S3）
+-   windows 11
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Docker（19）
+-   Puppeteer（1）
 
 ### 【担当業務】
 
@@ -536,13 +690,24 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   Java（8）
 -   Shell Script（Bash）
--   Linux（Red Hat Enterprise 7）
--   VB.NET / C#.NET（.NET Framework 4.7）
+-   C# (8)
+
+### 【DB】
+
 -   SQL Server（2016）
+
+### 【サーバー・OS】
+
+-   Linux（Red Hat Enterprise 7）
+-   windows 11
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   VB.NET / C#.NET（.NET Framework 4.7）
 -   Redmine（4）
 
 ### 【担当業務】
@@ -580,7 +745,27 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
+
+-   C# (8)
+-   VB (2019)
+-   Oracle（12c）
+-   JavaScript（ES6）
+-   jQuery（3）
+-   Shell Script（Bash）
+
+### 【DB】
+
+-   Oracle（12c）
+-   SQL Server（2014）
+-   Redmine（4）
+
+### 【サーバー・OS】
+
+-   Linux（Red Hat Enterprise 7）
+-   windows 11
+
+### 【フレームワーク・ミドルウェア・ツール等】
 
 -   VB.NET（.NET Framework 4.5）
 -   C#.NET（.NET Framework 4.5）
@@ -627,14 +812,27 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   PHP（7.4）
--   SQLite（3）
--   Oracle（19c）
--   PHPUnit（8）
 -   Laravel（8）
 -   JavaScript（ES6）
+-   Shell Script（Bash）
+
+### 【DB】
+
+-   SQLite（3）
+-   Oracle（19c）
+
+### 【サーバー・OS】
+
+-   Linux（Red Hat Enterprise 7）
+-   windows 11
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   PHPUnit（8）
+-   Laravel（8）
 -   jQuery（3）
 -   Shell Script（Bash）
 -   GitHub（Enterprise / Actions）
@@ -673,11 +871,25 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   Ubuntu（22.04）
--   WSL（2）
 -   Python（3.10）
+-   Node.js（18）
+-   Express（4）
+-   TypeScript（5）
+
+### 【DB】
+
+-   Amazon DynamoDB
+
+### 【サーバー・OS】
+
+-   AWS（EC2
+-   Ubuntu（22.04）
+-   windows 11
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
 -   PyTorch（2.0）
 -   TensorFlow（2.12）
 -   YOLO v8 / YOLO X（8.x / 0.3+）
@@ -696,8 +908,9 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 -   Node.js（18）
 -   Express（4）
 -   TypeScript（5）
--   AWS（EC2, Lambda, S3, DynamoDB）
--   Hugging Face, Google Colaboratory, Amazon Sagemaker
+-   Hugging Face
+-   Google Colaboratory
+-   Amazon Sagemaker
 
 ### 【担当業務】
 
@@ -732,19 +945,30 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
--   Docker（23）
 -   JavaScript（ES6）
 -   TypeScript（5）
 -   Node.js（20）
--   Express（4）
+
+### 【DB】
+
 -   MongoDB（6）
+
+### 【サーバー・OS】
+
+-   Linux（Ubuntu 24.04）
+-   windows 11
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   Docker（23）
+-   Express（4）
 -   Nginx（1.26）
 -   Vue.js（3）
 -   Vuetify（3）
--   Service Worker, Web Push
--   Linux（Ubuntu 24.04）
+-   Service Worker
+-   Web Push
 -   PWA（Progressive Web Apps）
 -   Nuxt.js（3）
 
@@ -752,7 +976,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 -   環境構築・アプリ開発・企画立上げ
 -   Node.js / Express を用いたバックエンド開発
--   Vue.js を活用した直感的な UI 設計
+-   Nuxt.js(Vue.js) を活用した直感的な UI 設計
 -   PWA の導入によるユーザーエクスペリエンス向上
 
 ### 【チーム人数】
@@ -780,13 +1004,24 @@ Nginx でセキュリティとパフォーマンスを強化しました。
 
 ---
 
-### 【ツール・言語】
+### 【使用言語】
 
 -   Flutter（3.22 / Dart 3）
 -   Android（Kotlin 1.9 / API Level 34）
 -   iOS（Swift 6.0 / iOS 18）
--   NFC（NfcManager / CoreNFC）
+
+### 【DB】
+
 -   SQLite（2）
+
+### 【サーバー・OS】
+
+-   windows 11
+-   Mac
+
+### 【フレームワーク・ミドルウェア・ツール等】
+
+-   NFC（NfcManager / CoreNFC）
 -   BLE（Bluetooth Low Energy）
     -   Android: BluetoothGatt, CompanionDeviceManager
     -   iOS: CoreBluetooth
@@ -812,4 +1047,3 @@ Nginx でセキュリティとパフォーマンスを強化しました。
 
 NFC と BLE の連携によりスムーズなペアリングプロセスを実現。
 Flutter を活用し、クロスプラットフォーム対応の高性能アプリを開発。
-```
