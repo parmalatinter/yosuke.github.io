@@ -212,14 +212,14 @@ Excel VBA を活用したデータ管理システムを構築し、業務の効�
 
 ### 【ツール・言語】
 
--   Objective-C（iOS SDK 6.x / Xcode 5.x）
--   Aptana Studio（Aptana 3.x）
+-   Objective-C（iOS SDK 6 / Xcode 5）
+-   Aptana Studio（Aptana 3）
 -   Android (Java)（Android API Level 15 - 17 / Eclipse ADT Plugin）
 -   CSS（CSS3）
 -   PHP（PHP 5.4）
 -   JavaScript（ES5）
--   jQuery（jQuery 1.10.x）
--   jQuery Mobile（1.3.x）
+-   jQuery（jQuery 1.10）
+-   jQuery Mobile（1.3）
 
 ### 【担当業務】
 
@@ -261,8 +261,8 @@ Jquery Mobileとレスポンシブデザインを利用してスマフォでもP
 -   Android (Java)（Android API Level 19 / Eclipse ADT Plugin）
 -   Tizen (C++)（Tizen 2.2）
 -   PhoneGap (Cordova)（3.0）
--   Backbone.js（1.0.x）
--   Lodash（2.x）
+-   Backbone.js（1.0）
+-   Lodash（2）
 
 ### 【担当業務】
 
@@ -296,12 +296,12 @@ Jquery Mobileとレスポンシブデザインを利用してスマフォでもP
 
 ### 【ツール・言語】
 
--   Ruby on Rails（Rails 6.x）
--   PostgreSQL（PostgreSQL 12.x）
+-   Ruby on Rails（Rails 6）
+-   PostgreSQL（PostgreSQL 12）
 -   Firebase（Firebase Realtime Database / Firestore）
 -   Scratch（Scratch 3.0）
 -   Google API（Google OAuth, Drive API）
--   Python（Python 3.x）
+-   Python（Python 3）
 
 ### 【担当業務】
 
@@ -340,9 +340,9 @@ Scrachの教育を学ぶコンテンツや生徒の作品を共有すること�
 
 -   C#.NET（.NET Framework 4.0）
 -   PHP（PHP 5.4）
--   Zend Framework（Zend Framework 1.x）
+-   Zend Framework（Zend Framework 1）
 -   JavaScript（ES5）
--   jQuery（jQuery 2.0.x）
+-   jQuery（jQuery 2.0）
 -   SQL Server（SQL Server 2012）
 
 ### 【内容】
@@ -386,9 +386,9 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 
 -   CSS（CSS3）
 -   PHP（PHP 7.0）
--   CakePHP（CakePHP 3.x）
+-   CakePHP（CakePHP 3）
 -   JavaScript（ES5）
--   jQuery（jQuery 3.x）
+-   jQuery（jQuery 3）
 -   AngularJS（AngularJS 1.6）
 -   MySQL（MySQL 5.7）
 -   Akamai（Akamai CDN & Cache Optimization）
@@ -435,12 +435,12 @@ iPhone・Android向けアプリを2タイトルリリースしました。いず
 ### 【ツール・言語】
 
 -   MySQL（MySQL 5.7）
--   CodeIgniter（CodeIgniter 3.x）
--   PHPUnit（PHPUnit 6.x）
+-   CodeIgniter（CodeIgniter 3）
+-   PHPUnit（PHPUnit 6）
 -   JavaScript（ES6）
--   jQuery（jQuery 3.x）
+-   jQuery（jQuery 3）
 -   PWA (Progressive Web Apps)（Service Worker, Web App Manifest, Push API）
--   Selenium（Selenium 3.x）
+-   Selenium（Selenium 3）
 
 ### 【内容】
 
@@ -483,14 +483,14 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 
 ### 【ツール・言語】
 
--   PostgreSQL（PostgreSQL 10.x）
+-   PostgreSQL（PostgreSQL 10）
 -   MySQL（MySQL 8.0）
--   Docker（Docker 19.x）
+-   Docker（Docker 19）
 -   Laravel（Laravel 5.7）
 -   Shell Script（Bash / Linux シェルスクリプト）
 -   JavaScript（ES6）
--   jQuery（jQuery 3.x）
--   GitLab（GitLab 12.x, GitLab CI/CD）
+-   jQuery（jQuery 3）
+-   GitLab（GitLab 12, GitLab CI/CD）
 
 ### 【内容】
 
@@ -533,10 +533,10 @@ GitLabを導入して、現地とのやり取りからコードレビューま�
 
 -   MySQL（MySQL 8.0）
 -   Ruby on Rails（Rails 6.0）
--   SCSS（CSS3 + Sass 3.7.x）
+-   SCSS（CSS3 + Sass 3.7）
 -   JavaScript（ES6）
--   Node.js（Node.js 10.x）
--   Puppeteer（Puppeteer 1.x）
+-   Node.js（Node.js 10）
+-   Puppeteer（Puppeteer 1）
 -   Python（Python 3.7）
 -   Linux（Ubuntu 18.04）
 -   Heroku（Heroku Standard / Professional Dynos）
@@ -588,10 +588,10 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 -   Java（Java 8）
 -   Shell Script（Bash）
--   Linux（Red Hat Enterprise Linux 7.x）
+-   Linux（Red Hat Enterprise Linux 7）
 -   VB.NET / C#.NET（.NET Framework 4.7）
 -   SQL Server（SQL Server 2016）
--   Redmine（Redmine 4.x）
+-   Redmine（Redmine 4）
 
 ### 【担当業務】
 
@@ -642,10 +642,10 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 -   Oracle（Oracle Database 12c）
 -   SQL Server（SQL Server 2014）
 -   JavaScript（ES6）
--   jQuery（jQuery 3.x）
+-   jQuery（jQuery 3）
 -   Shell Script（Bash）
--   Linux（Red Hat Enterprise Linux 7.x）
--   Redmine（Redmine 4.x）
+-   Linux（Red Hat Enterprise Linux 7）
+-   Redmine（Redmine 4）
 
 ### 【担当業務】
 
@@ -691,13 +691,13 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【ツール・言語】
 
--   PHP（PHP 7.4 - 8.2）
--   SQLite（SQLite 3.x）
+-   PHP（PHP 7.4）
+-   SQLite（SQLite 3）
 -   Oracle（Oracle Database 19c）
--   PHPUnit（PHPUnit 8.x - 10.x）
--   Laravel（Laravel 8.x - 10.x）
+-   PHPUnit（PHPUnit 8）
+-   Laravel（Laravel 8）
 -   JavaScript（ES6）
--   jQuery（jQuery 3.x）
+-   jQuery（jQuery 3）
 -   Shell Script（Bash）
 -   GitHub（GitHub Enterprise / GitHub Actions）
 -   GitHub Actions（CI/CD パイプライン管理）
@@ -748,9 +748,9 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 -   Python（Python 3.10）
 -   PyTorch（PyTorch 2.0）
 -   TensorFlow（TensorFlow 2.12）
--   YOLO v8 / YOLO X（YOLOv8 8.x, YOLOX 0.3+）
+-   YOLO v8 / YOLO X（YOLOv8 8, YOLOX 0.3+）
 -   RNN / RCNN / Transformer
--   Donut OCR（Donut OCR 1.x）
+-   Donut OCR（Donut OCR 1）
 -   EasyOCR（EasyOCR 1.7）
 -   OpenCV（OpenCV 4.8）
 -   Numpy（Numpy 1.24）
@@ -758,12 +758,12 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 -   SciPy（SciPy 1.9）
 -   scikit-learn（scikit-learn 1.2）
 -   matplotlib（matplotlib 3.7）
--   Docker（Docker 23.x）
--   Jupyter（Jupyter Notebook / JupyterLab 4.x）
+-   Docker（Docker 23）
+-   Jupyter（Jupyter Notebook / JupyterLab 4）
 -   JavaScript（ES6）
--   Node.js（Node.js 18.x）
--   Express（Express.js 4.x）
--   TypeScript（TypeScript 5.x）
+-   Node.js（Node.js 18）
+-   Express（Express.js 4）
+-   TypeScript（TypeScript 5）
 -   AWS（AWS EC2, Lambda, S3, DynamoDB）
 -   DynamoDB（AWS DynamoDB NoSQL）
 -   Hugging Face
@@ -808,20 +808,20 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
 
 ### 【ツール・言語】
 
--   Docker（Docker 23.x）
+-   Docker（Docker 23）
 -   JavaScript（ES6）
--   TypeScript（TypeScript 5.x）
--   Node.js（Node.js 20.x）
--   Express（Express.js 4.x）
--   MongoDB（MongoDB 6.x）
+-   TypeScript（TypeScript 5）
+-   Node.js（Node.js 20）
+-   Express（Express.js 4）
+-   MongoDB（MongoDB 6）
 -   Nginx（Nginx 1.26）
--   Vue.js（Vue.js 3.x）
--   Vuetify（Vuetify 3.x）
+-   Vue.js（Vue.js 3）
+-   Vuetify（Vuetify 3）
 -   Service Worker
 -   Web Push（Web プッシュ通知）
 -   Linux（Ubuntu 24.04 ）
 -   PWA（Progressive Web Apps）
--   Nuxt.js（Nuxt 3.x）
+-   Nuxt.js（Nuxt 3）
 
 ### 【担当業務】
 
@@ -858,11 +858,11 @@ Nginxでセキュリティとパフォーマンスを強化しました。
 
 ### 【ツール・言語】
 
--   Flutter（Flutter 3.22 / Dart 3.x）
--   Android (Kotlin)（Kotlin 1.9.x / Android API Level 34）
+-   Flutter（Flutter 3.22 / Dart 3）
+-   Android (Kotlin)（Kotlin 1.9 / Android API Level 34）
 -   iOS (Swift)（Swift 6.0 / iOS 18）
 -   NFC (Near Field Communication)（Android NfcManager, iOS CoreNFC）
--   SQLite（sqflite 2.x）
+-   SQLite（sqflite 2）
 -   BLE (Bluetooth Low Energy)
     -   Android: BluetoothGatt, CompanionDeviceManager
     -   iOS: CoreBluetooth
