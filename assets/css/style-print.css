@@ -1,15 +1,34 @@
 @media print {
-  /* テキストにスクロールが発生しないようなサイズにする */
-  body {
-    zoom: 0.85;
-    -webkit-print-color-adjust: exact;
-  }
-  /* ヘッダーが詰まるので修正 */
-  .page-header{
-      margin-bottom: 50px;
-  }
-  /* ヘッダーのリンク（英語）を印刷時には表示しない */
-  .page-header > .project-tagline, .page-header > .btn, #content > footer > a{
-    display:none;
-  }
+    /* テキストにスクロールが発生しないようなサイズにする */
+    body {
+        zoom: 0.85;
+        -webkit-print-color-adjust: exact;
+    }
+    /* ヘッダーが詰まるので修正 */
+    .page-header {
+        margin-bottom: 50px;
+    }
+    /* ヘッダーのリンク（英語）を印刷時には表示しない */
+    .page-header > .project-tagline,
+    .page-header > .btn,
+    #content > footer > a {
+        display: none;
+    }
+}
+
+pre {
+    white-space: pre-wrap; /* CSS 3 */
+    white-space: -moz-pre-wrap; /* Mozilla */
+    white-space: -pre-wrap; /* Opera 4-6 */
+    white-space: -o-pre-wrap; /* Opera 7 */
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+    overflow-x: hidden; /* 横スクロールを非表示 */
+    max-width: 100%; /* 最大幅を親要素に合わせる */
+}
+
+code {
+    white-space: pre-wrap; /* コード内でも改行を有効にする */
+    word-wrap: break-word;
+    display: block; /* ブロック要素として表示 */
+    width: 100%; /* 幅を親要素に合わせる */
 }
