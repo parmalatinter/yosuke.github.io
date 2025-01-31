@@ -11,21 +11,22 @@ title: 職務経歴書
 
 ### 【ツール・言語】
 
-    javascript
-    jQuery
-    CSS
-    Photoshop
-    Illustrator
-    InDesign
-    Dreamweaver
+-   JavaScript（ES5）
+-   jQuery（1.9）
+-   CSS（CSS2.1）
+-   HTML（HTML5）
+-   Photoshop（CS5）
+-   Illustrator（CS5）
+-   InDesign（CS5）
+-   Dreamweaver（CS5）
 
 ### 【担当業務】
 
-    自動車のマニュアル等WEBコンテンツ制作
-    レクサス取扱説明書の約6各国翻訳ディレクションリーダー、公正
-    トランスミッションの分解組付け電子マニュアル作成、取材
-    DTP
-    翻訳ディレクション
+-   自動車のマニュアル等 WEB コンテンツ制作
+-   レクサス取扱説明書の約 6 各国翻訳ディレクションリーダー、- 公正
+-   トランスミッションの分解組付け電子マニュアル作成、取材
+-   DTP
+-   翻訳ディレクション
 
 ### 【習得スキル】
 
@@ -55,21 +56,22 @@ DTPの知識を身に着け、本の作成工程を一通り実施しました�
 
 ### 【ツール・言語】
 
-    javascript
-    CSS
-    Flash
-    Photoshop
-    Illustrator
-    InDesign
-    Dreamweaver
+-   JavaScript（ES5）
+-   jQuery（1.9）
+-   CSS（CSS3）
+-   Flash（Adobe Flash CS5）
+-   Photoshop（CS5）
+-   Illustrator（CS5）
+-   InDesign（CS5）
+-   Dreamweaver（CS5）
 
 ### 【担当業務】
 
-    社員向けE-learningコンテンツ制作
-    お客様からのヒアリングや企画
-    原稿の製作
-    プレゼン
-    導入対応
+-   社員向け E-learning コンテンツ制作
+-   お客様からのヒアリングや企画
+-   原稿の製作
+-   プレゼン
+-   導入対応
 
 ### 【習得スキル】
 
@@ -97,8 +99,8 @@ DTPの知識を身に着け、本の作成工程を一通り実施しました�
 
 ### 【ツール・言語】
 
-    VBA
-    Access
+-   VBA（Microsoft Office 2003 / 2007）
+-   Access（Microsoft Access 2003 / 2007）
 
 ### 【担当業務】
 
@@ -174,7 +176,8 @@ TOEIC 505点
 
 ### 【ツール・言語】
 
-    VBA
+-   VBA（Microsoft Office 2003 / 2007 / 2010）
+-   Excel（Microsoft Excel 2003 / 2007 / 2010）
 
 ### 【担当業務】
 
@@ -209,13 +212,14 @@ Excel VBA を活用したデータ管理システムを構築し、業務の効�
 
 ### 【ツール・言語】
 
-    Objective-C
-    Aptana
-    Android (Java)
-    CSS
-    PHP
-    javascript
-    jQuery
+-   Objective-C（iOS SDK 6.x / Xcode 5.x）
+-   Aptana Studio（Aptana 3.x）
+-   Android (Java)（Android API Level 15 - 17 / Eclipse ADT Plugin）
+-   CSS（CSS3）
+-   PHP（PHP 5.4）
+-   JavaScript（ES5）
+-   jQuery（jQuery 1.10.x）
+-   jQuery Mobile（1.3.x）
 
 ### 【担当業務】
 
@@ -254,11 +258,11 @@ Jquery Mobileとレスポンシブデザインを利用してスマフォでもP
 
 ### 【ツール・言語】
 
-    Android (Java)
-    Tizen (C++)
-    phoneGap
-    backbone
-    lodash
+-   Android (Java)（Android API Level 19 / Eclipse ADT Plugin）
+-   Tizen (C++)（Tizen 2.2）
+-   PhoneGap (Cordova)（3.0）
+-   Backbone.js（1.0.x）
+-   Lodash（2.x）
 
 ### 【担当業務】
 
@@ -292,12 +296,12 @@ Jquery Mobileとレスポンシブデザインを利用してスマフォでもP
 
 ### 【ツール・言語】
 
-    Ruby on Rails
-    Postgres Sql
-    Firebase
-    Scrach
-    Google Api
-    Python
+-   Ruby on Rails（Rails 6.x）
+-   PostgreSQL（PostgreSQL 12.x）
+-   Firebase（Firebase Realtime Database / Firestore）
+-   Scratch（Scratch 3.0）
+-   Google API（Google OAuth, Drive API）
+-   Python（Python 3.x）
 
 ### 【担当業務】
 
@@ -334,12 +338,12 @@ Scrachの教育を学ぶコンテンツや生徒の作品を共有すること�
 
 ### 【ツール・言語】
 
-    C#.Net
-    PHP
-    ZendFrrameWork
-    javascript
-    jQuery
-    Sql Server
+-   C#.NET（.NET Framework 4.0）
+-   PHP（PHP 5.4）
+-   Zend Framework（Zend Framework 1.x）
+-   JavaScript（ES5）
+-   jQuery（jQuery 2.0.x）
+-   SQL Server（SQL Server 2012）
 
 ### 【内容】
 
@@ -380,13 +384,14 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 
 ### 【ツール・言語】
 
-    CSS
-    PHP
-    Cake PHP
-    javascript
-    jQuery
-    AngularJs
-    MysSql
+-   CSS（CSS3）
+-   PHP（PHP 7.0）
+-   CakePHP（CakePHP 3.x）
+-   JavaScript（ES5）
+-   jQuery（jQuery 3.x）
+-   AngularJS（AngularJS 1.6）
+-   MySQL（MySQL 5.7）
+-   Akamai（Akamai CDN & Cache Optimization）
 
 ### 【担当業務】
 
@@ -429,13 +434,13 @@ iPhone・Android向けアプリを2タイトルリリースしました。いず
 
 ### 【ツール・言語】
 
-    Mysql
-    Codeigniter
-    PHPUnit
-    javascript
-    jQuery
-    PWA
-    Selenium
+-   MySQL（MySQL 5.7）
+-   CodeIgniter（CodeIgniter 3.x）
+-   PHPUnit（PHPUnit 6.x）
+-   JavaScript（ES6）
+-   jQuery（jQuery 3.x）
+-   PWA (Progressive Web Apps)（Service Worker, Web App Manifest, Push API）
+-   Selenium（Selenium 3.x）
 
 ### 【内容】
 
@@ -478,14 +483,14 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 
 ### 【ツール・言語】
 
-    Postgres Sql
-    Mysql
-    Docker
-    Laravel
-    Shell Script
-    javascript
-    jQuery
-    Gitlab
+-   PostgreSQL（PostgreSQL 10.x）
+-   MySQL（MySQL 8.0）
+-   Docker（Docker 19.x）
+-   Laravel（Laravel 5.7）
+-   Shell Script（Bash / Linux シェルスクリプト）
+-   JavaScript（ES6）
+-   jQuery（jQuery 3.x）
+-   GitLab（GitLab 12.x, GitLab CI/CD）
 
 ### 【内容】
 
@@ -526,16 +531,16 @@ GitLabを導入して、現地とのやり取りからコードレビューま�
 
 ### 【ツール・言語】
 
-    Mysql
-    Ruby on Rails
-    Scss
-    javascript
-    Node.js
-    puppeteer
-    Python
-    Linux
-    Heroku
-    AWS
+-   MySQL（MySQL 8.0）
+-   Ruby on Rails（Rails 6.0）
+-   SCSS（CSS3 + Sass 3.7.x）
+-   JavaScript（ES6）
+-   Node.js（Node.js 10.x）
+-   Puppeteer（Puppeteer 1.x）
+-   Python（Python 3.7）
+-   Linux（Ubuntu 18.04）
+-   Heroku（Heroku Standard / Professional Dynos）
+-   AWS（AWS EC2, S3）
 
 ### 【内容】
 
@@ -581,9 +586,12 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【ツール・言語】
 
-    Java
-    Shell Script
-    Linux
+-   Java（Java 8）
+-   Shell Script（Bash）
+-   Linux（Red Hat Enterprise Linux 7.x）
+-   VB.NET / C#.NET（.NET Framework 4.7）
+-   SQL Server（SQL Server 2016）
+-   Redmine（Redmine 4.x）
 
 ### 【担当業務】
 
@@ -629,15 +637,15 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【ツール・言語】
 
-    VB.net
-    C#.net
-    Oracle
-    SQL Sever
-    javascript
-    jQuery
-    Shell Script
-    Linux
-    Redmine
+-   VB.NET（.NET Framework 4.5）
+-   C#.NET（.NET Framework 4.5）
+-   Oracle（Oracle Database 12c）
+-   SQL Server（SQL Server 2014）
+-   JavaScript（ES6）
+-   jQuery（jQuery 3.x）
+-   Shell Script（Bash）
+-   Linux（Red Hat Enterprise Linux 7.x）
+-   Redmine（Redmine 4.x）
 
 ### 【担当業務】
 
@@ -683,16 +691,16 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【ツール・言語】
 
-    PHP
-    SQlite
-    Oracle
-    PHP unit
-    Laravel
-    javascript
-    jQuery
-    Shell Script
-    Github
-    GitHub Actions
+-   PHP（PHP 7.4 - 8.2）
+-   SQLite（SQLite 3.x）
+-   Oracle（Oracle Database 19c）
+-   PHPUnit（PHPUnit 8.x - 10.x）
+-   Laravel（Laravel 8.x - 10.x）
+-   JavaScript（ES6）
+-   jQuery（jQuery 3.x）
+-   Shell Script（Bash）
+-   GitHub（GitHub Enterprise / GitHub Actions）
+-   GitHub Actions（CI/CD パイプライン管理）
 
 ### 【担当業務】
 
@@ -735,31 +743,32 @@ Pythonを使用し、市場の動向をスクレイピングしてDBに保管す
 
 ### 【ツール・言語】
 
-    Ubuntu
-    WSL
-    Python
-    Pytorch
-    Tensorflow
-    YOLO v8, YOLO X
-    RNN
-    RCNN
-    transfomer
-    donut ocr
-    EasyOCR
-    OpenCV
-    Numpy
-    Pandas
-    SciPy
-    scikit-learn
-    matplotlib
-    Docker
-    Jupyter
-    javascript
-    Node.js
-    Express
-    Typescript
-    AWS
-    DynamoDB
+-   Ubuntu（Ubuntu 22.04）
+-   WSL（WSL2）
+-   Python（Python 3.10）
+-   PyTorch（PyTorch 2.0）
+-   TensorFlow（TensorFlow 2.12）
+-   YOLO v8 / YOLO X（YOLOv8 8.x, YOLOX 0.3+）
+-   RNN / RCNN / Transformer
+-   Donut OCR（Donut OCR 1.x）
+-   EasyOCR（EasyOCR 1.7）
+-   OpenCV（OpenCV 4.8）
+-   Numpy（Numpy 1.24）
+-   Pandas（Pandas 1.5）
+-   SciPy（SciPy 1.9）
+-   scikit-learn（scikit-learn 1.2）
+-   matplotlib（matplotlib 3.7）
+-   Docker（Docker 23.x）
+-   Jupyter（Jupyter Notebook / JupyterLab 4.x）
+-   JavaScript（ES6）
+-   Node.js（Node.js 18.x）
+-   Express（Express.js 4.x）
+-   TypeScript（TypeScript 5.x）
+-   AWS（AWS EC2, Lambda, S3, DynamoDB）
+-   DynamoDB（AWS DynamoDB NoSQL）
+-   Hugging Face
+-   google colaboratory
+-   Amazon Sagemaker
 
 ### 【担当業務】
 
@@ -799,20 +808,20 @@ RTSPからYOLOを用いてナンバープレートを検出し、Donutを用い�
 
 ### 【ツール・言語】
 
-    Docker
-    javascript
-    typescript
-    Node.js
-    Express
-    Mongo DB
-    Nginx
-    Vue.js
-    Vuetify
-    Service Woker
-    Web Push
-    linux
-    PWA
-    Nuxt.js
+-   Docker（Docker 23.x）
+-   JavaScript（ES6）
+-   TypeScript（TypeScript 5.x）
+-   Node.js（Node.js 20.x）
+-   Express（Express.js 4.x）
+-   MongoDB（MongoDB 6.x）
+-   Nginx（Nginx 1.26）
+-   Vue.js（Vue.js 3.x）
+-   Vuetify（Vuetify 3.x）
+-   Service Worker
+-   Web Push（Web プッシュ通知）
+-   Linux（Ubuntu 24.04 ）
+-   PWA（Progressive Web Apps）
+-   Nuxt.js（Nuxt 3.x）
 
 ### 【担当業務】
 
@@ -849,12 +858,15 @@ Nginxでセキュリティとパフォーマンスを強化しました。
 
 ### 【ツール・言語】
 
-    Flutter
-    Android (Kotlin)
-    iOS (Swift)
-    NFC (Near Field Communication)
-    SQLite
-    BLE (Bluetooth Low Energy)
+-   Flutter（Flutter 3.22 / Dart 3.x）
+-   Android (Kotlin)（Kotlin 1.9.x / Android API Level 34）
+-   iOS (Swift)（Swift 6.0 / iOS 18）
+-   NFC (Near Field Communication)（Android NfcManager, iOS CoreNFC）
+-   SQLite（sqflite 2.x）
+-   BLE (Bluetooth Low Energy)
+    -   Android: BluetoothGatt, CompanionDeviceManager
+    -   iOS: CoreBluetooth
+    -   Flutter: flutter_blue_plus, reactive_ble_mobile
 
 ### 【担当業務】
 
