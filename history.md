@@ -26,10 +26,10 @@ title: 職務経歴書
 
 ### 【サーバー・OS】
 
+-   Render（BluePrints）
 -   Linux（Ubuntu 22.04）
 -   windows 11
 -   Mac
--   Render（BluePrints）
 
 ### 【フレームワーク・ミドルウェア・ツール等】
 
@@ -40,6 +40,8 @@ title: 職務経歴書
 -   Puppeteer（21）
 -   Firebase Cloud Messaging（Push 通知）
 -   Google Auth
+-   Docker（27）
+-   Visual Studio Code（1.96）
 
 ### 【担当業務】
 
@@ -103,6 +105,9 @@ Puppeteerによる自動化システムの実装や、認証・プッシュ通�
     -   Android: BluetoothGatt, CompanionDeviceManager
     -   iOS: CoreBluetooth
     -   Flutter: flutter_blue_plus
+-   Visual Studio Code（1.96）
+-   Android Studio（BLadybug Feature Drop）
+-   Xcode（16.1）
 
 ### 【担当業務】
 
@@ -169,6 +174,7 @@ Flutter を活用し、クロスプラットフォーム対応の高性能アプ
 -   Web Push
 -   PWA（Progressive Web Apps）
 -   Nuxt.js（3）
+-   Visual Studio Code（1.90）
 
 ### 【担当業務】
 
@@ -251,6 +257,7 @@ Nginx でセキュリティとパフォーマンスを強化しました。
 -   Hugging Face
 -   Google Colaboratory
 -   Amazon Sagemaker
+-   Visual Studio Code（1.85）
 
 ### 【担当業務】
 
@@ -320,6 +327,8 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   Shell Script（Bash）
 -   GitHub（Enterprise / Actions）
 -   GitHub Actions（CI/CD パイプライン管理）
+-   Visual Studio Code（1.85）
+-   PHP Storm（2021.1.4）
 
 ### 【担当業務】
 
@@ -395,6 +404,8 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   Shell Script（Bash）
 -   Linux（Red Hat Enterprise 7）
 -   Redmine（4）
+-   Visual Studio（2017）
+-   Visual Studio Code（1.15）
 
 ### 【担当業務】
 
@@ -459,6 +470,9 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 -   VB.NET / C#.NET（.NET Framework 4.7）
 -   Redmine（4）
+-   Visual Studio（2017）
+-   Visual Studio Code（1.15）
+-   Eclipse（4.7）
 
 ### 【担当業務】
 
@@ -522,6 +536,9 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 -   Docker（19）
 -   Puppeteer（1）
+-   RubyMine（2018.2）
+-   PyCharm（2018.2）
+-   MySQL Workbench（8.0）
 
 ### 【担当業務】
 
@@ -587,6 +604,9 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 -   Laravel（5.7）
 -   Shell Script（Bash / Linux シェルスクリプト）
 -   GitLab（12.x, GitLab CI/CD）
+-   PHPStorm（2018.2）
+-   MySQL Workbench（8.0）
+-   PGAdmin（1.8.4）
 
 ### 【担当業務】
 
@@ -618,7 +638,7 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ## 9. 株式会社音生
 
-> 1 年 6 ヶ月 17/07 ～ 18/12
+> 10 ヶ月 17/07 ～ 18/05
 
 ---
 
@@ -647,6 +667,8 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 -   jQuery（3）
 -   PWA（Service Worker, Web App Manifest, Push API）
 -   Selenium（3）
+-   PHPStorm（2017.7）
+-   MySQL Workbench（8.0）
 
 ### 【担当業務】
 
@@ -711,7 +733,8 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 -   jQuery（3.0）
 -   AngularJS（1.6）
 -   Akamai（CDN & Cache Optimization）
--
+-   PHPStorm（2017.6）
+-   MySQL Workbench（8.0）
 
 ### 【担当業務】
 
@@ -773,6 +796,7 @@ iPhone・Android 向けアプリを 2 タイトルリリースしました。い
 
 -   Zend Framework（1）
 -   jQuery（2.0）
+-   Visual Studio（2013）
 
 ### 【担当業務】
 
@@ -827,8 +851,9 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 
 ### 【フレームワーク・ミドルウェア・ツール等】
 
--   Scratch（3.0）
+-   Jquery（3.6）
 -   Google API（OAuth, Drive API）
+-   RubyMine（5.0.2）
 
 ### 【担当業務】
 
