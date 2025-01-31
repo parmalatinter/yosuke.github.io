@@ -235,7 +235,7 @@ Nginx でセキュリティとパフォーマンスを強化しました。
 
 ### 【サーバー・OS】
 
--   AWS（EC2
+-   AWS（EC2）
 -   Ubuntu（22.04）
 -   windows 11
 
@@ -388,7 +388,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   JavaScript（ES6）
 -   jQuery（3）
 -   Shell Script（Bash）
--   Git
+-   Python
 
 ### 【DB】
 
@@ -398,7 +398,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 ### 【サーバー・OS】
 
--   Linux（Red Hat Enterprise 7）
+-   windows server （2016）
 -   windows 11
 
 ### 【フレームワーク・ミドルウェア・ツール等】
@@ -414,6 +414,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   Redmine（4）
 -   Visual Studio（2017）
 -   Visual Studio Code（1.15）
+-   Git
 
 ### 【チーム人数】
 
@@ -443,8 +444,8 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 ソースコードをコミットしたらボタン一つテスト用サーバーで確認できるようにしたり、Redmine を利用して
 ソースやプロジェクトを管理して効率化できるようにしました。
 メンバーの残業時間も削減でき一連の確認作業をより正確に実施できるようになりました。
-未経験の新人でも作業できるように Redmine の使用法、デバッグ方法、デプロイ方法などを Wiki にまとめ誰でも作業できる
-ような状態にしました。
+未経験の新人でも作業できるように Redmine の使用法、デバッグ方法、デプロイ方法などを Wiki にまとめ誰でも作業できるような状態にしました。
+PythonでDBを同期するデスクトップツールを作成し安全かつ簡単にDB動機ができるようになりました。
 ```
 
 ## 6. NCN（トヨタ向け）
@@ -471,7 +472,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 ### 【サーバー・OS】
 
--   Linux（Red Hat Enterprise 7）
+-   windows server （2016）
 -   windows 11
 
 ### 【フレームワーク・ミドルウェア・ツール等】
@@ -661,6 +662,7 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 ### 【使用言語】
 
 -   PHP（7.2）
+-   JavaScript（ES6）
 
 ### 【DB】
 
@@ -668,6 +670,7 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ### 【サーバー・OS】
 
+-   Linux（Ubuntu 18.04）
 -   Mac
 
 ### 【フレームワーク・ミドルウェア・ツール等】
@@ -735,12 +738,14 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 
 ### 【サーバー・OS】
 
+-   Linux（Ubuntu 18.04）
 -   windows 10
 -   Mac
 
 ### 【フレームワーク・ミドルウェア・ツール等】
 
 -   CakePHP（3）
+-   JavaScript（ES6）
 -   jQuery（3.0）
 -   AngularJS（1.6）
 -   Akamai（CDN & Cache Optimization）
@@ -801,6 +806,7 @@ iPhone・Android 向けアプリを 2 タイトルリリースしました。い
 
 ### 【サーバー・OS】
 
+-   windows server（2012）
 -   windows 10
 -   Mac
 
@@ -851,6 +857,7 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 -   Ruby on Rails（Rails 6）
 -   Scratch（3.0）
 -   Python（3）
+-   JavaScript（ES6）
 
 ### 【DB】
 
@@ -859,6 +866,8 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 
 ### 【サーバー・OS】
 
+-   Heroku
+-   Linux（5.8）
 -   windows 10
 -   Mac
 
