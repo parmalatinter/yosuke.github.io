@@ -44,6 +44,7 @@ title: 職務経歴書
 -   Google Auth
 -   Docker（27）
 -   Visual Studio Code（1.96）
+-   Github
 
 ### 【チーム人数】
 
@@ -110,6 +111,7 @@ Puppeteerによる自動化システムの実装や、認証・プッシュ通�
 -   Visual Studio Code（1.96）
 -   Android Studio（BLadybug Feature Drop）
 -   Xcode（16.1）
+-   Github
 
 ### 【チーム人数】
 
@@ -177,6 +179,7 @@ Flutter を活用し、クロスプラットフォーム対応の高性能アプ
 -   PWA（Progressive Web Apps）
 -   Nuxt.js（3）
 -   Visual Studio Code（1.90）
+-   Github Flow
 
 ### 【チーム人数】
 
@@ -260,6 +263,7 @@ Nginx でセキュリティとパフォーマンスを強化しました。
 -   Google Colaboratory
 -   Amazon Sagemaker
 -   Visual Studio Code（1.85）
+-   Git
 
 ### 【チーム人数】
 
@@ -331,6 +335,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   GitHub Actions（CI/CD パイプライン管理）
 -   Visual Studio Code（1.85）
 -   PHP Storm（2021.1.4）
+-   Github Flow
 
 ### 【チーム人数】
 
@@ -383,6 +388,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   JavaScript（ES6）
 -   jQuery（3）
 -   Shell Script（Bash）
+-   Git
 
 ### 【DB】
 
@@ -475,6 +481,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   Visual Studio（2017）
 -   Visual Studio Code（1.15）
 -   Eclipse（4.7）
+-   Git
 
 ### 【チーム人数】
 
@@ -541,6 +548,8 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 -   RubyMine（2018.2）
 -   PyCharm（2018.2）
 -   MySQL Workbench（8.0）
+-   Github Flow
+-
 
 ### 【チーム人数】
 
@@ -567,9 +576,8 @@ SKYPE で打ち合わせをおこない、開発は Docker、コードレビュ�
 誰でも途中から参画できる形にして開発を実施しました。
 問題がおこっても誰かがすぐ解決することができ非常に効率的に作業を進めることができました。
 結果的に作業者一人が抱えるかつリスクも削減することができました。
-```
-
 Python を使用し、市場の動向をスクレイピングして DB に保管するプログラムを作成し、市場の戦略の立案にも寄与することができました。
+```
 
 ## 8. シェアリングテクノロジー株式会社
 
@@ -671,6 +679,7 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 -   Selenium（3）
 -   PHPStorm（2017.7）
 -   MySQL Workbench（8.0）
+-   Github Flow
 
 ### 【チーム人数】
 
@@ -737,6 +746,7 @@ PWA(Progressive Web Apps)の仕組みを追加することでスマフォアプ�
 -   Akamai（CDN & Cache Optimization）
 -   PHPStorm（2017.6）
 -   MySQL Workbench（8.0）
+-   Git
 
 ### 【チーム人数】
 
@@ -799,6 +809,7 @@ iPhone・Android 向けアプリを 2 タイトルリリースしました。い
 -   Zend Framework（1）
 -   jQuery（2.0）
 -   Visual Studio（2013）
+-   Git
 
 ### 【チーム人数】
 
@@ -856,6 +867,7 @@ PHP を知らない方に理解しやすいよう修正内容説明してコー�
 -   Jquery（3.6）
 -   Google API（OAuth, Drive API）
 -   RubyMine（5.0.2）
+-   Github
 
 ### 【チーム人数】
 
@@ -1036,6 +1048,10 @@ Scrach の教育を学ぶコンテンツや生徒の作品を共有すること�
 
 -   Excel VBA を用いたデータ管理システムの構築
 -   大規模データの整理・管理
+
+### 【習得スキル】
+
+-   データ管理システムの構築経験
 
 ### 【コメント】
 
