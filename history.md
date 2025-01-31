@@ -29,6 +29,7 @@ title: 職務経歴書
 -   Linux（Ubuntu 22.04）
 -   windows 11
 -   Mac
+-   Render（BluePrints）
 
 ### 【フレームワーク・ミドルウェア・ツール等】
 
