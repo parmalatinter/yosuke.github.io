@@ -16,7 +16,8 @@
     }
 }
 
-pre {
+.main-content .highlight pre,
+.main-content pre {
     white-space: pre-wrap; /* CSS 3 */
     white-space: -moz-pre-wrap; /* Mozilla */
     white-space: -pre-wrap; /* Opera 4-6 */
@@ -26,7 +27,8 @@ pre {
     max-width: 100%; /* 最大幅を親要素に合わせる */
 }
 
-code {
+.main-content .highlight pre code,
+.main-content pre code {
     white-space: pre-wrap; /* コード内でも改行を有効にする */
     word-wrap: break-word;
     display: block; /* ブロック要素として表示 */
