@@ -593,7 +593,7 @@ Python を使用し、市場の動向をスクレイピングして DB に保管
 
 ### 【使用言語】
 
--   PHP
+-   PHP（7.3）
 -   Shell Script（Bash / Linux シェルスクリプト）
 -   JavaScript（ES6）
 -   GitLab（12.x, GitLab CI/CD）
