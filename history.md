@@ -7,7 +7,7 @@ title: 職務経歴書
 
 ## 0. 個人開発（育休中）
 
-&nbsp;&nbsp;&nbsp;&nbsp;2024/11 ～
+&nbsp;&nbsp;&nbsp;&nbsp;2024/12 ～
 
 ---
 
