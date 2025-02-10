@@ -298,7 +298,7 @@ RTSP から YOLO を用いてナンバープレートを検出し、Donut を用
 
 ## 4. CMC Solutions（ダイフク向け）
 
-&nbsp;&nbsp;&nbsp;&nbsp;1 年 2 ヶ月 2022/01 ～ 2023/02
+&nbsp;&nbsp;&nbsp;&nbsp;1 年 2 ヶ月 2021/06 ～ 2023/02
 
 ---
 
